@@ -1,5 +1,7 @@
 Playing with data from https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w
+
 Current Employee Names, Salaries, and Position Titles
+
 This dataset is a listing of all current City of Chicago employees, complete with full names, departments, positions, and annual salaries.
 
 ````
